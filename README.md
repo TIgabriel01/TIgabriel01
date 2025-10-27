@@ -16,7 +16,6 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Maven](https://skillicons.dev/icons?i=maven)
 ![Git](https://skillicons.dev/icons?i=git)
-![JUnit](https://skillicons.dev/icons?i=junit)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
