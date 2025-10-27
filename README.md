@@ -20,5 +20,6 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![IntelliJ](https://skillicons.dev/icons?i=intellij)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
 
