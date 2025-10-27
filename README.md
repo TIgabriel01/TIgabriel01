@@ -8,7 +8,7 @@
 
 🎯 Projetos: Simulação de um "clone" do YouTube em Java, Bot da FURIA Tech e outros projetos em Java para aprimorar habilidades de programação
 
-💻 Tecnologias que uso:
+
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring Boot](https://skillicons.dev/icons?i=spring)
@@ -20,6 +20,5 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![VS Code](https://skillicons.dev/icons?i=vscode)
 ![IntelliJ](https://skillicons.dev/icons?i=intellij)
 
